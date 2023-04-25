@@ -11,6 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1>Em Breve Curriculo digital Eugênio Pacelli</h1>
+        <p>Teste de deploy</p>
       </main>
 
       <footer className={styles.footer}>
